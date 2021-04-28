@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faBook,
   faRocket,
-  faCoins,
+  // faCoins,
   faCircleNotch,
 } from "@fortawesome/free-solid-svg-icons";
 import {
@@ -13,7 +13,7 @@ import {
   faMedium,
   faGithub,
   faYoutube,
-  faEthereum,
+  // faEthereum,
 } from "@fortawesome/free-brands-svg-icons";
 
 const Footer = () => {

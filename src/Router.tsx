@@ -1,7 +1,7 @@
 import React from "react";
 import { HashRouter, Switch, Route } from "react-router-dom";
 import LandingPage from "./pages/LandingPage";
-import Message from "./pages/Message";
+// import Message from "./pages/Message";
 import ToS from "./pages/ToS";
 
 const Router = () => {
