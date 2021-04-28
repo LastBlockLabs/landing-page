@@ -42,7 +42,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r git@github.com:LastBlockLabs/landing-page.git",
+    "deploy": "gh-pages -d build -r git@github.com:LastBlockLabs/landing-page.github.io.git",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
