@@ -122,7 +122,7 @@ const LandingPage = () => {
               <div className="section-heading text-center pb-65">
                 <h2 className="heading-title">Next Steps</h2>
                 <p className="heading-des">
-                  Denex raised over 500 Eth through the massive support from the
+                  Mod-B raised over 500 Eth through the massive support from the
                   community. Since then, we've returned 100% of this to each
                   investor but saw this support as validation to keep working on
                   this project. We're working in the backgrounds to launch this

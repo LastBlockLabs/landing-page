@@ -25,10 +25,10 @@ const Footer = () => {
             <div className="col-lg-4 col-md-6">
               <div className="footer-logo pb-25">
                 <a href="index.html">
-                  <h1>Denex</h1>
+                  <h1>Mod-B</h1>
                 </a>
               </div>
-              <div className="footer-icon">
+              {/* <div className="footer-icon">
                 <ul>
                   <li>
                     <a
@@ -66,15 +66,10 @@ const Footer = () => {
                       <FontAwesomeIcon icon={faMedium} />
                     </a>
                   </li>
-                  {/* <li>
-                    <a href="#" target="_blank">
-                      <FontAwesomeIcon icon={faReddit} />
-                    </a>
-                  </li> */}
                 </ul>
-              </div>
+              </div> */}
             </div>
-            <div className="col-lg-8 col-md-6">
+            {/* <div className="col-lg-8 col-md-6">
               <div className="footer-link">
                 <ul>
                   <li>
@@ -122,24 +117,6 @@ const Footer = () => {
                       <FontAwesomeIcon icon={faCircleNotch} /> &nbsp; Overview
                     </a>
                   </li>
-                  {/* <li>
-                    <a
-                      href="https://denexnft.gitbook.io/denex/tokenomics/token-pre-sale"
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      <FontAwesomeIcon icon={faCoins} /> &nbsp; Tokenomics
-                    </a>
-                  </li> */}
-                  {/* <li>
-                    <a
-                      href="https://denexnft.gitbook.io/denex/tokenomics/token-distribution"
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      <FontAwesomeIcon icon={faEthereum} /> &nbsp; Pre-Sale
-                    </a>
-                  </li> */}
                   <li>
                     <a href="./#/ToS" target="_blank" rel="noreferrer">
                       <FontAwesomeIcon icon={faBook} /> &nbsp; Terms of Service
@@ -147,20 +124,13 @@ const Footer = () => {
                   </li>
                 </ul>
               </div>
-            </div>
-            {/* <div className="col-lg-2 col-md-6">
-              <div className="subscribe">
-                <div className="form-group">
-                  <a href="/" className="btn">Token Launch</a>
-                </div>
-              </div>
-            </div> */}
-          </div>
+            </div>*/}
+          </div> 
         </div>
         <div className="copyright">
           <div className="row">
             <div className="col-lg-6">
-              <p>© Denex all Rights Reserved 2021</p>
+              <p>© LastBlock Inc all Rights Reserved 2021</p>
             </div>
           </div>
         </div>

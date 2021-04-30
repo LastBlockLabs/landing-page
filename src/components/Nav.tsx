@@ -54,7 +54,11 @@ const Nav = ({ activate, active }: NavProps) => {
                 <div className="signin d-inline-block hide-mobile">
                   {/* <ConnectWallet activate={activate} active={active} /> */}
                   <div className="signin d-inline-block">
-                    <button className="btn">Pitch Deck</button>
+                    <button className="btn"><a
+                      href="https://drive.google.com/drive/folders/1RMi4_XpLoy0nepIXDKCus7TbsWXcB23t"
+                      target="_blank"
+                      rel="noreferrer"
+                    >Pitch Deck</a></button>
                   </div>
                 </div>
               </div>
