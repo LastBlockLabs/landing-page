@@ -28,7 +28,7 @@ const Footer = () => {
                   <h1>Mod-B</h1>
                 </a>
               </div>
-              {/* <div className="footer-icon">
+              <div className="footer-icon">
                 <ul>
                   <li>
                     <a
@@ -67,7 +67,7 @@ const Footer = () => {
                     </a>
                   </li>
                 </ul>
-              </div> */}
+              </div>
             </div>
             {/* <div className="col-lg-8 col-md-6">
               <div className="footer-link">

@@ -15,10 +15,10 @@ const LandingPage = () => {
             <div className="col-lg-12 col-md-12 position-u flex-align wow fadeInLeft">
               <div className="banner-contain">
                 <h1 className="banner-heading">
-                  The Decentralized NFT Exchange
+                  Decentralized Tools for NFT Creators
                 </h1>
                 <p className="banner-des">
-                  Bringing the philosophy of Uniswap to the NFT space
+                  Enabling the next stage of digital commerce
                 </p>
                 {/* <a href="#" className="btn">Learn more</a> */}
               </div>
@@ -32,13 +32,9 @@ const LandingPage = () => {
           <div className="row mh-heading">
             <div className="col-md-12 flex-align wow fadeInUp">
               <div className="section-heading text-center pb-65">
-                <h2 className="heading-title">How it Works</h2>
+                <h2 className="heading-title">What is Mod-B</h2>
                 <p className="heading-des">
-                  Our platform lets anyone buy or sell any NFT for any ERC20
-                  token on the Ethereum Network using our smart contracts.
-                  Whether you are buying art, collectibles, or in-game items,
-                  the transaction will be peer to peer, secure, transparent, and
-                  censorship resistent.
+                  Imagine a decentralized Shopify for NFTs. We enable creators to sell any Ethereum NFT for any ERC-20 token through their own website.
                 </p>
               </div>
             </div>
@@ -67,11 +63,9 @@ const LandingPage = () => {
                   <img src="images/feature-1.png" alt="Early Bonus" />
                 </div>
                 <div className="feature-contain pt-25">
-                  <div className="feature-title pb-15">Compatibility</div>
+                  <div className="feature-title pb-15">Storefront Integration</div>
                   <p className="feature-des">
-                    Our contracts let you trade your ERC-721 and ERC-1155 NFTs
-                    for any ERC-20 Token. This gives sellers the flexibility to
-                    list speculatively, or boost the use of social tokens.
+                    Sell your NFTs through your own site and own your own branding.
                   </p>
                 </div>
               </div>
@@ -83,12 +77,10 @@ const LandingPage = () => {
                 </div>
                 <div className="feature-contain pt-25">
                   <div className="feature-title pb-15">
-                    Non-Locking Contracts
+                    Open Source Contracts
                   </div>
                   <p className="feature-des">
-                    No Locking Requirements - NFTs never need to be locked into
-                    the listing contract. Instead, keep NFTs safe in your wallet
-                    until the purchase is complete.
+                    Fully open, fully decentralized. Never worry about losing control of your brand's future.
                   </p>
                 </div>
               </div>
@@ -99,11 +91,9 @@ const LandingPage = () => {
                   <img src="images/feature-3.png" alt="Univarsal Access" />
                 </div>
                 <div className="feature-contain pt-25">
-                  <div className="feature-title pb-15">Liquidity Mining</div>
+                  <div className="feature-title pb-15">All Tokens Allowed</div>
                   <p className="feature-des">
-                    Make an immediate return on investment by staking your DNX
-                    tokens for rewards. Paid out on a regular basis, and
-                    redeemable straight to your wallet.
+                    Sell any ERC721 & ERC 731 NFTs for any ERC20 tokens.
                   </p>
                 </div>
               </div>
@@ -120,13 +110,12 @@ const LandingPage = () => {
           <div className="row">
             <div className="col-md-12 flex-align wow fadeInUp">
               <div className="section-heading text-center pb-65">
-                <h2 className="heading-title">Next Steps</h2>
+                <h2 className="heading-title">Our Vision</h2>
                 <p className="heading-des">
-                  Mod-B raised over 500 Eth through the massive support from the
-                  community. Since then, we've returned 100% of this to each
-                  investor but saw this support as validation to keep working on
-                  this project. We're working in the backgrounds to launch this
-                  properly. Stay tooned!
+                  With Denex, we raised over 500 Eth in 2 days which proved the demand for decentralizated NFT exchange.
+                  Mod-B builds on top of this ceoncept and gives creators freedom over their brand. 
+                  Beyond this, we will continuously unlock features 
+                  for NFTs and enable open assets for all.
                 </p>
               </div>
             </div>
@@ -193,7 +182,7 @@ const LandingPage = () => {
                 <div className="roadmap-slider owl-carousel">
                   <div className="roadmap wow fadeInLeft">
                     <div className="roadmap-box text-center">
-                      <div className="date-title">Q1 2021</div>
+                      <div className="date-title">Early Q2 2021</div>
                       <div className="map-graphic">
                         <div className="small-round">
                           <span></span>
@@ -201,21 +190,7 @@ const LandingPage = () => {
                         <div className="v-row"></div>
                       </div>
                       <div className="roadmap-detail-box">
-                        <p>Token Pre-Sale & Development</p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="roadmap wow fadeInLeft">
-                    <div className="roadmap-box text-center">
-                      <div className="date-title">Q2 2021</div>
-                      <div className="map-graphic">
-                        <div className="small-round">
-                          <span></span>
-                        </div>
-                        <div className="v-row"></div>
-                      </div>
-                      <div className="roadmap-detail-box">
-                        <p>Platform TestNet Launch</p>
+                        <p>Seed Round & Early Development</p>
                       </div>
                     </div>
                   </div>
@@ -229,7 +204,7 @@ const LandingPage = () => {
                         <div className="v-row"></div>
                       </div>
                       <div className="roadmap-detail-box">
-                        <p>Mainnet Launch</p>
+                        <p>Platform TestNet Launch</p>
                       </div>
                     </div>
                   </div>
@@ -243,7 +218,21 @@ const LandingPage = () => {
                         <div className="v-row"></div>
                       </div>
                       <div className="roadmap-detail-box">
-                        <p>v2.0 Testnet Launch</p>
+                        <p>Mainnet Launch</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="roadmap wow fadeInLeft">
+                    <div className="roadmap-box text-center">
+                      <div className="date-title">Q1 2022</div>
+                      <div className="map-graphic">
+                        <div className="small-round">
+                          <span></span>
+                        </div>
+                        <div className="v-row"></div>
+                      </div>
+                      <div className="roadmap-detail-box">
+                        <p>v2.0 Launch & Scaling</p>
                       </div>
                     </div>
                   </div>
